@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vllHbyi8kEtAA0dTPCvFeDNXc0KbBq9T7n7KyBBbXR4HCwNMR6kepEZ7uMFHqIton3Vn1NH+dlMI2OKp3hYbUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kyleh\\Downloads\\mangotemp_3\\funni\\MangoModMenuV5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kyleh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kyleh\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
